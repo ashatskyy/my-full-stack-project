@@ -1,12 +1,13 @@
-# Full-Stack Project: “Overhead Orbital Objects”
+# My Full-Stack Project "Overhead Orbital Objects"
 
 ## Description
-My portfolio Full-Stack Project: “Overhead Orbital Objects” is a project that allows you to see space objects flying over your head in real time, some of which can be seen with the naked eye in the sky above you. This project was created by me with the purpose of demonstrating my abilities as a full-stack developer. The project uses a chain of servers for secure data transmission. The idea of this project is my intellectual property. At this stage, the project demonstrates only a small part of its future capabilities. Due to the use of free servers, the daily updated data loading takes about 1–2 minutes during the first load.
+My full-stack project allows you to see space objects flying over your head in real time, some of which can be seen with the naked eye in the sky above you. The idea for this project is my intellectual property. At this stage, the project demonstrates only a small part of its future capabilities.
 
 ## Features
-- Responsive Design: Works seamlessly on desktop, tablet, and mobile devices.
-- Renders Correctly: Across all modern browsers.
-
+- Demonstrates: my abilities as a full-stack developer
+- Uses: a chain of servers for secure data transmission
+- Responsive design: works seamlessly on desktop, tablet, and mobile devices
+- Renders correctly across all modern browsers
 
 ## Technologies
 - HTML
@@ -14,8 +15,7 @@ My portfolio Full-Stack Project: “Overhead Orbital Objects” is a project tha
 - React
 - Node.js / Express.js
 
-
-## Available at the following web address
+## Available at
 https://ashatskyy.github.io/my-full-stack-project/
 
 ## Author
